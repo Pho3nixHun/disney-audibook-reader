@@ -1,0 +1,234 @@
+.App {
+  min-height: 100vh;
+  color: white;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.App-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.App-header h1 {
+  font-size: 2.5rem;
+  margin: 0 0 10px 0;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
+
+.App-header p {
+  font-size: 1.1rem;
+  margin: 0;
+  opacity: 0.9;
+}
+
+.App-main {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.controls {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.scan-button {
+  background: linear-gradient(45deg, #ff6b6b, #ff8e8e);
+  color: white;
+  border: none;
+  padding: 15px 30px;
+  font-size: 1.2rem;
+  border-radius: 25px;
+  cursor: pointer;
+  box-shadow: 0 4px 15px rgba(255, 107, 107, 0.3);
+  transition: all 0.3s ease;
+}
+
+.scan-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(255, 107, 107, 0.4);
+}
+
+.scanning-status {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+}
+
+.pulse-animation {
+  width: 60px;
+  height: 60px;
+  background: radial-gradient(circle, #4ecdc4, #45b7aa);
+  border-radius: 50%;
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(0.8);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(1.2);
+    opacity: 0.7;
+  }
+  100% {
+    transform: scale(0.8);
+    opacity: 1;
+  }
+}
+
+.stop-button, .clear-button {
+  background: linear-gradient(45deg, #666, #888);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1rem;
+  border-radius: 20px;
+  cursor: pointer;
+  margin: 0 10px;
+  transition: all 0.3s ease;
+}
+
+.stop-button:hover, .clear-button:hover {
+  transform: translateY(-1px);
+  background: linear-gradient(45deg, #777, #999);
+}
+
+.error-card {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 99, 99, 0.3);
+  border-radius: 15px;
+  padding: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.error-card h3 {
+  color: #ff6b6b;
+  margin-top: 0;
+}
+
+.error-card ul {
+  text-align: left;
+  display: inline-block;
+}
+
+.data-section {
+  margin-top: 30px;
+}
+
+.data-section h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 1.8rem;
+}
+
+.empty-state {
+  text-align: center;
+  padding: 40px 20px;
+  opacity: 0.7;
+  font-style: italic;
+}
+
+.tag-card {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 15px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+}
+
+.tag-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.tag-header h3 {
+  margin: 0;
+  color: #4ecdc4;
+}
+
+.timestamp {
+  font-size: 0.9rem;
+  opacity: 0.7;
+}
+
+.tag-info p {
+  margin: 5px 0;
+}
+
+.record-card {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  padding: 15px;
+  margin-top: 15px;
+}
+
+.record-card h4 {
+  margin: 0 0 10px 0;
+  color: #ffd93d;
+}
+
+.record-details p {
+  margin: 8px 0;
+}
+
+.data-content {
+  background: rgba(0, 0, 0, 0.3);
+  padding: 10px;
+  border-radius: 5px;
+  white-space: pre-wrap;
+  word-break: break-all;
+  font-family: 'Courier New', monospace;
+  font-size: 0.9rem;
+  margin-top: 5px;
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+.hex-data {
+  color: #a8e6cf;
+  letter-spacing: 1px;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 600px) {
+  .App {
+    padding: 15px;
+  }
+
+  .App-header h1 {
+    font-size: 2rem;
+  }
+
+  .scan-button {
+    padding: 12px 25px;
+    font-size: 1.1rem;
+  }
+
+  .tag-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 5px;
+  }
+
+  .data-content {
+    font-size: 0.8rem;
+  }
+}
+
+/* Safari specific fixes */
+@supports (-webkit-appearance: none) {
+  .tag-card, .record-card, .error-card {
+    background: rgba(255, 255, 255, 0.15);
+  }
+}

@@ -1,0 +1,2482 @@
+[
+  {
+    "filename": "_01-ALA.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 10.08,
+    "raw_metadata": {
+      "file": {
+        "filename": "_01-ALA.MP3",
+        "size_bytes": 10565488,
+        "size_mb": 10.08
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_02-SNO.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 10.63,
+    "raw_metadata": {
+      "file": {
+        "filename": "_02-SNO.MP3",
+        "size_bytes": 11142690,
+        "size_mb": 10.63
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_03-LIO.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 9.48,
+    "raw_metadata": {
+      "file": {
+        "filename": "_03-LIO.MP3",
+        "size_bytes": 9936042,
+        "size_mb": 9.48
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_04-FIN.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 10.05,
+    "raw_metadata": {
+      "file": {
+        "filename": "_04-FIN.MP3",
+        "size_bytes": 10542501,
+        "size_mb": 10.05
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_05-JUN.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 9.2,
+    "raw_metadata": {
+      "file": {
+        "filename": "_05-JUN.MP3",
+        "size_bytes": 9642634,
+        "size_mb": 9.2
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_06-TOY.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.85,
+    "raw_metadata": {
+      "file": {
+        "filename": "_06-TOY.MP3",
+        "size_bytes": 8228626,
+        "size_mb": 7.85
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_07-PET.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 8.13,
+    "raw_metadata": {
+      "file": {
+        "filename": "_07-PET.MP3",
+        "size_bytes": 8525952,
+        "size_mb": 8.13
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_08-DUM.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.54,
+    "raw_metadata": {
+      "file": {
+        "filename": "_08-DUM.MP3",
+        "size_bytes": 7904969,
+        "size_mb": 7.54
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_09-LIT.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 8.2,
+    "raw_metadata": {
+      "file": {
+        "filename": "_09-LIT.MP3",
+        "size_bytes": 8600192,
+        "size_mb": 8.2
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_10-PIN.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 8.31,
+    "raw_metadata": {
+      "file": {
+        "filename": "_10-PIN.MP3",
+        "size_bytes": 8709175,
+        "size_mb": 8.31
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_11-FRO.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 8.07,
+    "raw_metadata": {
+      "file": {
+        "filename": "_11-FRO.MP3",
+        "size_bytes": 8463049,
+        "size_mb": 8.07
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_12-101.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 8.24,
+    "raw_metadata": {
+      "file": {
+        "filename": "_12-101.MP3",
+        "size_bytes": 8638226,
+        "size_mb": 8.24
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_13-BEA.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.83,
+    "raw_metadata": {
+      "file": {
+        "filename": "_13-BEA.MP3",
+        "size_bytes": 8205220,
+        "size_mb": 7.83
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_14-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 8.32,
+    "raw_metadata": {
+      "file": {
+        "filename": "_14-DIS.MP3",
+        "size_bytes": 8725266,
+        "size_mb": 8.32
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_15-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.1,
+    "raw_metadata": {
+      "file": {
+        "filename": "_15-DIS.MP3",
+        "size_bytes": 7441243,
+        "size_mb": 7.1
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_16-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.79,
+    "raw_metadata": {
+      "file": {
+        "filename": "_16-DIS.MP3",
+        "size_bytes": 8166089,
+        "size_mb": 7.79
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_17-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.7,
+    "raw_metadata": {
+      "file": {
+        "filename": "_17-DIS.MP3",
+        "size_bytes": 8077220,
+        "size_mb": 7.7
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_18-TAN.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 8.16,
+    "raw_metadata": {
+      "file": {
+        "filename": "_18-TAN.MP3",
+        "size_bytes": 8560695,
+        "size_mb": 8.16
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_19-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.79,
+    "raw_metadata": {
+      "file": {
+        "filename": "_19-DIS.MP3",
+        "size_bytes": 8168649,
+        "size_mb": 7.79
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_20-RAT.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.68,
+    "raw_metadata": {
+      "file": {
+        "filename": "_20-RAT.MP3",
+        "size_bytes": 8047963,
+        "size_mb": 7.68
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_21-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.94,
+    "raw_metadata": {
+      "file": {
+        "filename": "_21-DIS.MP3",
+        "size_bytes": 8326637,
+        "size_mb": 7.94
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_22-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 8.0,
+    "raw_metadata": {
+      "file": {
+        "filename": "_22-DIS.MP3",
+        "size_bytes": 8386615,
+        "size_mb": 8.0
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_23-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 8.09,
+    "raw_metadata": {
+      "file": {
+        "filename": "_23-DIS.MP3",
+        "size_bytes": 8487186,
+        "size_mb": 8.09
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_24-INC.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 8.0,
+    "raw_metadata": {
+      "file": {
+        "filename": "_24-INC.MP3",
+        "size_bytes": 8388809,
+        "size_mb": 8.0
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_25-SLE.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.55,
+    "raw_metadata": {
+      "file": {
+        "filename": "_25-SLE.MP3",
+        "size_bytes": 7918866,
+        "size_mb": 7.55
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_26-ARI.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 8.16,
+    "raw_metadata": {
+      "file": {
+        "filename": "_26-ARI.MP3",
+        "size_bytes": 8551917,
+        "size_mb": 8.16
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_27-POC.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.59,
+    "raw_metadata": {
+      "file": {
+        "filename": "_27-POC.MP3",
+        "size_bytes": 7962752,
+        "size_mb": 7.59
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_28-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.86,
+    "raw_metadata": {
+      "file": {
+        "filename": "_28-DIS.MP3",
+        "size_bytes": 8240329,
+        "size_mb": 7.86
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_29-LIL.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.78,
+    "raw_metadata": {
+      "file": {
+        "filename": "_29-LIL.MP3",
+        "size_bytes": 8159506,
+        "size_mb": 7.78
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_30-HUN.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 8.2,
+    "raw_metadata": {
+      "file": {
+        "filename": "_30-HUN.MP3",
+        "size_bytes": 8603117,
+        "size_mb": 8.2
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_31-ZOO.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.93,
+    "raw_metadata": {
+      "file": {
+        "filename": "_31-ZOO.MP3",
+        "size_bytes": 8312375,
+        "size_mb": 7.93
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_32-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 8.29,
+    "raw_metadata": {
+      "file": {
+        "filename": "_32-DIS.MP3",
+        "size_bytes": 8689060,
+        "size_mb": 8.29
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_33-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 8.57,
+    "raw_metadata": {
+      "file": {
+        "filename": "_33-DIS.MP3",
+        "size_bytes": 8981266,
+        "size_mb": 8.57
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_34-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.52,
+    "raw_metadata": {
+      "file": {
+        "filename": "_34-DIS.MP3",
+        "size_bytes": 7884123,
+        "size_mb": 7.52
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_35-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 8.58,
+    "raw_metadata": {
+      "file": {
+        "filename": "_35-DIS.MP3",
+        "size_bytes": 8991872,
+        "size_mb": 8.58
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_36-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 8.14,
+    "raw_metadata": {
+      "file": {
+        "filename": "_36-DIS.MP3",
+        "size_bytes": 8531437,
+        "size_mb": 8.14
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_37-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 8.57,
+    "raw_metadata": {
+      "file": {
+        "filename": "_37-DIS.MP3",
+        "size_bytes": 8990409,
+        "size_mb": 8.57
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_38-MOA.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 8.62,
+    "raw_metadata": {
+      "file": {
+        "filename": "_38-MOA.MP3",
+        "size_bytes": 9034660,
+        "size_mb": 8.62
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_39-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.4,
+    "raw_metadata": {
+      "file": {
+        "filename": "_39-DIS.MP3",
+        "size_bytes": 7761975,
+        "size_mb": 7.4
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_40-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 8.62,
+    "raw_metadata": {
+      "file": {
+        "filename": "_40-DIS.MP3",
+        "size_bytes": 9035026,
+        "size_mb": 8.62
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_41-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.88,
+    "raw_metadata": {
+      "file": {
+        "filename": "_41-DIS.MP3",
+        "size_bytes": 8261175,
+        "size_mb": 7.88
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_42-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 8.48,
+    "raw_metadata": {
+      "file": {
+        "filename": "_42-DIS.MP3",
+        "size_bytes": 8893129,
+        "size_mb": 8.48
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_43-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 8.64,
+    "raw_metadata": {
+      "file": {
+        "filename": "_43-DIS.MP3",
+        "size_bytes": 9063186,
+        "size_mb": 8.64
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_44-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.84,
+    "raw_metadata": {
+      "file": {
+        "filename": "_44-DIS.MP3",
+        "size_bytes": 8221312,
+        "size_mb": 7.84
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_45-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 8.0,
+    "raw_metadata": {
+      "file": {
+        "filename": "_45-DIS.MP3",
+        "size_bytes": 8384786,
+        "size_mb": 8.0
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_46-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 8.68,
+    "raw_metadata": {
+      "file": {
+        "filename": "_46-DIS.MP3",
+        "size_bytes": 9097197,
+        "size_mb": 8.68
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_47-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.87,
+    "raw_metadata": {
+      "file": {
+        "filename": "_47-DIS.MP3",
+        "size_bytes": 8248740,
+        "size_mb": 7.87
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_48-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 8.99,
+    "raw_metadata": {
+      "file": {
+        "filename": "_48-DIS.MP3",
+        "size_bytes": 9423049,
+        "size_mb": 8.99
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_49-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.93,
+    "raw_metadata": {
+      "file": {
+        "filename": "_49-DIS.MP3",
+        "size_bytes": 8310912,
+        "size_mb": 7.93
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_50-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.94,
+    "raw_metadata": {
+      "file": {
+        "filename": "_50-DIS.MP3",
+        "size_bytes": 8328100,
+        "size_mb": 7.94
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_51-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.72,
+    "raw_metadata": {
+      "file": {
+        "filename": "_51-DIS.MP3",
+        "size_bytes": 8099529,
+        "size_mb": 7.72
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_52-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.55,
+    "raw_metadata": {
+      "file": {
+        "filename": "_52-DIS.MP3",
+        "size_bytes": 7921426,
+        "size_mb": 7.55
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_53-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 6.82,
+    "raw_metadata": {
+      "file": {
+        "filename": "_53-DIS.MP3",
+        "size_bytes": 7153792,
+        "size_mb": 6.82
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_54-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 8.05,
+    "raw_metadata": {
+      "file": {
+        "filename": "_54-DIS.MP3",
+        "size_bytes": 8440375,
+        "size_mb": 8.05
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_55-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.16,
+    "raw_metadata": {
+      "file": {
+        "filename": "_55-DIS.MP3",
+        "size_bytes": 7503049,
+        "size_mb": 7.16
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_56-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.83,
+    "raw_metadata": {
+      "file": {
+        "filename": "_56-DIS.MP3",
+        "size_bytes": 8213632,
+        "size_mb": 7.83
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_57-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.61,
+    "raw_metadata": {
+      "file": {
+        "filename": "_57-DIS.MP3",
+        "size_bytes": 7977380,
+        "size_mb": 7.61
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_58-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.78,
+    "raw_metadata": {
+      "file": {
+        "filename": "_58-DIS.MP3",
+        "size_bytes": 8154386,
+        "size_mb": 7.78
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_59-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 8.1,
+    "raw_metadata": {
+      "file": {
+        "filename": "_59-DIS.MP3",
+        "size_bytes": 8493403,
+        "size_mb": 8.1
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_60-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.5,
+    "raw_metadata": {
+      "file": {
+        "filename": "_60-DIS.MP3",
+        "size_bytes": 7866935,
+        "size_mb": 7.5
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_61-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.95,
+    "raw_metadata": {
+      "file": {
+        "filename": "_61-DIS.MP3",
+        "size_bytes": 8331026,
+        "size_mb": 7.95
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_62-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.82,
+    "raw_metadata": {
+      "file": {
+        "filename": "_62-DIS.MP3",
+        "size_bytes": 8200832,
+        "size_mb": 7.82
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_63-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.45,
+    "raw_metadata": {
+      "file": {
+        "filename": "_63-DIS.MP3",
+        "size_bytes": 7808420,
+        "size_mb": 7.45
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_64-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.19,
+    "raw_metadata": {
+      "file": {
+        "filename": "_64-DIS.MP3",
+        "size_bytes": 7537792,
+        "size_mb": 7.19
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_65-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.72,
+    "raw_metadata": {
+      "file": {
+        "filename": "_65-DIS.MP3",
+        "size_bytes": 8091849,
+        "size_mb": 7.72
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_66-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.33,
+    "raw_metadata": {
+      "file": {
+        "filename": "_66-DIS.MP3",
+        "size_bytes": 7690660,
+        "size_mb": 7.33
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_67-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 8.3,
+    "raw_metadata": {
+      "file": {
+        "filename": "_67-DIS.MP3",
+        "size_bytes": 8702226,
+        "size_mb": 8.3
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_68-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 8.1,
+    "raw_metadata": {
+      "file": {
+        "filename": "_68-DIS.MP3",
+        "size_bytes": 8495597,
+        "size_mb": 8.1
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_69-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.1,
+    "raw_metadata": {
+      "file": {
+        "filename": "_69-DIS.MP3",
+        "size_bytes": 7448557,
+        "size_mb": 7.1
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_70-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 8.2,
+    "raw_metadata": {
+      "file": {
+        "filename": "_70-DIS.MP3",
+        "size_bytes": 8600557,
+        "size_mb": 8.2
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_71-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.17,
+    "raw_metadata": {
+      "file": {
+        "filename": "_71-DIS.MP3",
+        "size_bytes": 7519872,
+        "size_mb": 7.17
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_72-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 8.01,
+    "raw_metadata": {
+      "file": {
+        "filename": "_72-DIS.MP3",
+        "size_bytes": 8403437,
+        "size_mb": 8.01
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_73-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.93,
+    "raw_metadata": {
+      "file": {
+        "filename": "_73-DIS.MP3",
+        "size_bytes": 8316397,
+        "size_mb": 7.93
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_74-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.91,
+    "raw_metadata": {
+      "file": {
+        "filename": "_74-DIS.MP3",
+        "size_bytes": 8297746,
+        "size_mb": 7.91
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_75-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.64,
+    "raw_metadata": {
+      "file": {
+        "filename": "_75-DIS.MP3",
+        "size_bytes": 8007735,
+        "size_mb": 7.64
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_76-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.81,
+    "raw_metadata": {
+      "file": {
+        "filename": "_76-DIS.MP3",
+        "size_bytes": 8185837,
+        "size_mb": 7.81
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_77-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.18,
+    "raw_metadata": {
+      "file": {
+        "filename": "_77-DIS.MP3",
+        "size_bytes": 7530112,
+        "size_mb": 7.18
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_78-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.33,
+    "raw_metadata": {
+      "file": {
+        "filename": "_78-DIS.MP3",
+        "size_bytes": 7684809,
+        "size_mb": 7.33
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_79-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.65,
+    "raw_metadata": {
+      "file": {
+        "filename": "_79-DIS.MP3",
+        "size_bytes": 8025289,
+        "size_mb": 7.65
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  },
+  {
+    "filename": "_80-DIS.MP3",
+    "title": "",
+    "artist": "",
+    "album": "",
+    "year": "",
+    "size_mb": 7.73,
+    "raw_metadata": {
+      "file": {
+        "filename": "_80-DIS.MP3",
+        "size_bytes": 8102089,
+        "size_mb": 7.73
+      },
+      "id3v2": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "version": "2.3.0"
+      },
+      "id3v1": {
+        "title": "",
+        "artist": "",
+        "album": "",
+        "year": "",
+        "comment": "",
+        "genre": 0
+      }
+    }
+  }
+]

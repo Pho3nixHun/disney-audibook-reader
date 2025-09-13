@@ -1,0 +1,1762 @@
+[
+  {
+    "filename": "_01-ALA.MP3",
+    "file_size_mb": 10.08,
+    "file_size_bytes": 10565488,
+    "guessed_title": "Aladdin",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_02-SNO.MP3",
+    "file_size_mb": 10.63,
+    "file_size_bytes": 11142690,
+    "guessed_title": "Snow White",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_03-LIO.MP3",
+    "file_size_mb": 9.48,
+    "file_size_bytes": 9936042,
+    "guessed_title": "Lion King",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_04-FIN.MP3",
+    "file_size_mb": 10.05,
+    "file_size_bytes": 10542501,
+    "guessed_title": "Finding Nemo",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_05-JUN.MP3",
+    "file_size_mb": 9.2,
+    "file_size_bytes": 9642634,
+    "guessed_title": "Jungle Book",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_06-TOY.MP3",
+    "file_size_mb": 7.85,
+    "file_size_bytes": 8228626,
+    "guessed_title": "Toy Story",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_07-PET.MP3",
+    "file_size_mb": 8.13,
+    "file_size_bytes": 8525952,
+    "guessed_title": "Peter Pan",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_08-DUM.MP3",
+    "file_size_mb": 7.54,
+    "file_size_bytes": 7904969,
+    "guessed_title": "Dumbo",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_09-LIT.MP3",
+    "file_size_mb": 8.2,
+    "file_size_bytes": 8600192,
+    "guessed_title": "Little Mermaid",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_10-PIN.MP3",
+    "file_size_mb": 8.31,
+    "file_size_bytes": 8709175,
+    "guessed_title": "Pinocchio",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_11-FRO.MP3",
+    "file_size_mb": 8.07,
+    "file_size_bytes": 8463049,
+    "guessed_title": "Frozen",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_12-101.MP3",
+    "file_size_mb": 8.24,
+    "file_size_bytes": 8638226,
+    "guessed_title": "101 Dalmatians",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_13-BEA.MP3",
+    "file_size_mb": 7.83,
+    "file_size_bytes": 8205220,
+    "guessed_title": "Beauty and the Beast",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_14-DIS.MP3",
+    "file_size_mb": 8.32,
+    "file_size_bytes": 8725266,
+    "guessed_title": "Disney Story 14",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_15-DIS.MP3",
+    "file_size_mb": 7.1,
+    "file_size_bytes": 7441243,
+    "guessed_title": "Disney Story 15",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_16-DIS.MP3",
+    "file_size_mb": 7.79,
+    "file_size_bytes": 8166089,
+    "guessed_title": "Disney Story 16",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_17-DIS.MP3",
+    "file_size_mb": 7.7,
+    "file_size_bytes": 8077220,
+    "guessed_title": "Disney Story 17",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_18-TAN.MP3",
+    "file_size_mb": 8.16,
+    "file_size_bytes": 8560695,
+    "guessed_title": "Tangled",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_19-DIS.MP3",
+    "file_size_mb": 7.79,
+    "file_size_bytes": 8168649,
+    "guessed_title": "Disney Story 19",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_20-RAT.MP3",
+    "file_size_mb": 7.68,
+    "file_size_bytes": 8047963,
+    "guessed_title": "Ratatouille",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_21-DIS.MP3",
+    "file_size_mb": 7.94,
+    "file_size_bytes": 8326637,
+    "guessed_title": "Disney Story 21",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_22-DIS.MP3",
+    "file_size_mb": 8.0,
+    "file_size_bytes": 8386615,
+    "guessed_title": "Disney Story 22",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_23-DIS.MP3",
+    "file_size_mb": 8.09,
+    "file_size_bytes": 8487186,
+    "guessed_title": "Disney Story 23",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_24-INC.MP3",
+    "file_size_mb": 8.0,
+    "file_size_bytes": 8388809,
+    "guessed_title": "The Incredibles",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_25-SLE.MP3",
+    "file_size_mb": 7.55,
+    "file_size_bytes": 7918866,
+    "guessed_title": "Sleeping Beauty",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_26-ARI.MP3",
+    "file_size_mb": 8.16,
+    "file_size_bytes": 8551917,
+    "guessed_title": "The Little Mermaid (Ariel)",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_27-POC.MP3",
+    "file_size_mb": 7.59,
+    "file_size_bytes": 7962752,
+    "guessed_title": "Pocahontas",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_28-DIS.MP3",
+    "file_size_mb": 7.86,
+    "file_size_bytes": 8240329,
+    "guessed_title": "Disney Story 28",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_29-LIL.MP3",
+    "file_size_mb": 7.78,
+    "file_size_bytes": 8159506,
+    "guessed_title": "Lady and the Tramp",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_30-HUN.MP3",
+    "file_size_mb": 8.2,
+    "file_size_bytes": 8603117,
+    "guessed_title": "The Hunchback of Notre Dame",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_31-ZOO.MP3",
+    "file_size_mb": 7.93,
+    "file_size_bytes": 8312375,
+    "guessed_title": "Zootopia",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_32-DIS.MP3",
+    "file_size_mb": 8.29,
+    "file_size_bytes": 8689060,
+    "guessed_title": "Disney Story 32",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_33-DIS.MP3",
+    "file_size_mb": 8.57,
+    "file_size_bytes": 8981266,
+    "guessed_title": "Disney Story 33",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_34-DIS.MP3",
+    "file_size_mb": 7.52,
+    "file_size_bytes": 7884123,
+    "guessed_title": "Disney Story 34",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_35-DIS.MP3",
+    "file_size_mb": 8.58,
+    "file_size_bytes": 8991872,
+    "guessed_title": "Disney Story 35",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_36-DIS.MP3",
+    "file_size_mb": 8.14,
+    "file_size_bytes": 8531437,
+    "guessed_title": "Disney Story 36",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_37-DIS.MP3",
+    "file_size_mb": 8.57,
+    "file_size_bytes": 8990409,
+    "guessed_title": "Disney Story 37",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_38-MOA.MP3",
+    "file_size_mb": 8.62,
+    "file_size_bytes": 9034660,
+    "guessed_title": "Moana",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_39-DIS.MP3",
+    "file_size_mb": 7.4,
+    "file_size_bytes": 7761975,
+    "guessed_title": "Disney Story 39",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_40-DIS.MP3",
+    "file_size_mb": 8.62,
+    "file_size_bytes": 9035026,
+    "guessed_title": "Disney Story 40",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_41-DIS.MP3",
+    "file_size_mb": 7.88,
+    "file_size_bytes": 8261175,
+    "guessed_title": "Disney Story 41",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_42-DIS.MP3",
+    "file_size_mb": 8.48,
+    "file_size_bytes": 8893129,
+    "guessed_title": "Disney Story 42",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_43-DIS.MP3",
+    "file_size_mb": 8.64,
+    "file_size_bytes": 9063186,
+    "guessed_title": "Disney Story 43",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_44-DIS.MP3",
+    "file_size_mb": 7.84,
+    "file_size_bytes": 8221312,
+    "guessed_title": "Disney Story 44",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_45-DIS.MP3",
+    "file_size_mb": 8.0,
+    "file_size_bytes": 8384786,
+    "guessed_title": "Disney Story 45",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_46-DIS.MP3",
+    "file_size_mb": 8.68,
+    "file_size_bytes": 9097197,
+    "guessed_title": "Disney Story 46",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_47-DIS.MP3",
+    "file_size_mb": 7.87,
+    "file_size_bytes": 8248740,
+    "guessed_title": "Disney Story 47",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_48-DIS.MP3",
+    "file_size_mb": 8.99,
+    "file_size_bytes": 9423049,
+    "guessed_title": "Disney Story 48",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_49-DIS.MP3",
+    "file_size_mb": 7.93,
+    "file_size_bytes": 8310912,
+    "guessed_title": "Disney Story 49",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_50-DIS.MP3",
+    "file_size_mb": 7.94,
+    "file_size_bytes": 8328100,
+    "guessed_title": "Disney Story 50",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_51-DIS.MP3",
+    "file_size_mb": 7.72,
+    "file_size_bytes": 8099529,
+    "guessed_title": "Disney Story 51",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_52-DIS.MP3",
+    "file_size_mb": 7.55,
+    "file_size_bytes": 7921426,
+    "guessed_title": "Disney Story 52",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_53-DIS.MP3",
+    "file_size_mb": 6.82,
+    "file_size_bytes": 7153792,
+    "guessed_title": "Disney Story 53",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_54-DIS.MP3",
+    "file_size_mb": 8.05,
+    "file_size_bytes": 8440375,
+    "guessed_title": "Disney Story 54",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_55-DIS.MP3",
+    "file_size_mb": 7.16,
+    "file_size_bytes": 7503049,
+    "guessed_title": "Disney Story 55",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_56-DIS.MP3",
+    "file_size_mb": 7.83,
+    "file_size_bytes": 8213632,
+    "guessed_title": "Disney Story 56",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_57-DIS.MP3",
+    "file_size_mb": 7.61,
+    "file_size_bytes": 7977380,
+    "guessed_title": "Disney Story 57",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_58-DIS.MP3",
+    "file_size_mb": 7.78,
+    "file_size_bytes": 8154386,
+    "guessed_title": "Disney Story 58",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_59-DIS.MP3",
+    "file_size_mb": 8.1,
+    "file_size_bytes": 8493403,
+    "guessed_title": "Disney Story 59",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_60-DIS.MP3",
+    "file_size_mb": 7.5,
+    "file_size_bytes": 7866935,
+    "guessed_title": "Disney Story 60",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_61-DIS.MP3",
+    "file_size_mb": 7.95,
+    "file_size_bytes": 8331026,
+    "guessed_title": "Disney Story 61",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_62-DIS.MP3",
+    "file_size_mb": 7.82,
+    "file_size_bytes": 8200832,
+    "guessed_title": "Disney Story 62",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_63-DIS.MP3",
+    "file_size_mb": 7.45,
+    "file_size_bytes": 7808420,
+    "guessed_title": "Disney Story 63",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_64-DIS.MP3",
+    "file_size_mb": 7.19,
+    "file_size_bytes": 7537792,
+    "guessed_title": "Disney Story 64",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_65-DIS.MP3",
+    "file_size_mb": 7.72,
+    "file_size_bytes": 8091849,
+    "guessed_title": "Disney Story 65",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_66-DIS.MP3",
+    "file_size_mb": 7.33,
+    "file_size_bytes": 7690660,
+    "guessed_title": "Disney Story 66",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_67-DIS.MP3",
+    "file_size_mb": 8.3,
+    "file_size_bytes": 8702226,
+    "guessed_title": "Disney Story 67",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_68-DIS.MP3",
+    "file_size_mb": 8.1,
+    "file_size_bytes": 8495597,
+    "guessed_title": "Disney Story 68",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_69-DIS.MP3",
+    "file_size_mb": 7.1,
+    "file_size_bytes": 7448557,
+    "guessed_title": "Disney Story 69",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_70-DIS.MP3",
+    "file_size_mb": 8.2,
+    "file_size_bytes": 8600557,
+    "guessed_title": "Disney Story 70",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_71-DIS.MP3",
+    "file_size_mb": 7.17,
+    "file_size_bytes": 7519872,
+    "guessed_title": "Disney Story 71",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_72-DIS.MP3",
+    "file_size_mb": 8.01,
+    "file_size_bytes": 8403437,
+    "guessed_title": "Disney Story 72",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_73-DIS.MP3",
+    "file_size_mb": 7.93,
+    "file_size_bytes": 8316397,
+    "guessed_title": "Disney Story 73",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_74-DIS.MP3",
+    "file_size_mb": 7.91,
+    "file_size_bytes": 8297746,
+    "guessed_title": "Disney Story 74",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_75-DIS.MP3",
+    "file_size_mb": 7.64,
+    "file_size_bytes": 8007735,
+    "guessed_title": "Disney Story 75",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_76-DIS.MP3",
+    "file_size_mb": 7.81,
+    "file_size_bytes": 8185837,
+    "guessed_title": "Disney Story 76",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_77-DIS.MP3",
+    "file_size_mb": 7.18,
+    "file_size_bytes": 7530112,
+    "guessed_title": "Disney Story 77",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_78-DIS.MP3",
+    "file_size_mb": 7.33,
+    "file_size_bytes": 7684809,
+    "guessed_title": "Disney Story 78",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_79-DIS.MP3",
+    "file_size_mb": 7.65,
+    "file_size_bytes": 8025289,
+    "guessed_title": "Disney Story 79",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  },
+  {
+    "filename": "_80-DIS.MP3",
+    "file_size_mb": 7.73,
+    "file_size_bytes": 8102089,
+    "guessed_title": "Disney Story 80",
+    "id3_metadata": {
+      "version": "2.3.0",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "genre": "Blues",
+      "frames_found": [
+        "TCON"
+      ]
+    },
+    "actual_title": "",
+    "actual_artist": "",
+    "actual_album": "",
+    "actual_year": "",
+    "actual_genre": "Blues"
+  }
+]
